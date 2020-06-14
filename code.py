@@ -37,4 +37,4 @@ while True:
     screen[6].text = binaer[seku0]
     screen[7].text = binaer[seku1]
     screen.show()
-    time.sleep(1)
+#   time.sleep(1) ??? necessary ???
